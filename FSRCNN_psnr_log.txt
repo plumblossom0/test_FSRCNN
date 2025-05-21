@@ -1,0 +1,899 @@
+Step 1000/300000 - loss: 0.0060224 - PSNR: 24.411 - val_loss: 0.0023372 - val_PSNR: 26.989
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 2000/300000 - loss: 0.0015756 - PSNR: 28.084 - val_loss: 0.0016601 - val_PSNR: 28.579
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 3000/300000 - loss: 0.0012320 - PSNR: 29.135 - val_loss: 0.0015581 - val_PSNR: 28.835
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 4000/300000 - loss: 0.0010913 - PSNR: 29.669 - val_loss: 0.0013728 - val_PSNR: 29.527
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 5000/300000 - loss: 0.0010093 - PSNR: 30.006 - val_loss: 0.0013295 - val_PSNR: 29.686
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 6000/300000 - loss: 0.0009490 - PSNR: 30.268 - val_loss: 0.0012898 - val_PSNR: 29.804
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 7000/300000 - loss: 0.0009116 - PSNR: 30.446 - val_loss: 0.0012608 - val_PSNR: 29.925
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 8000/300000 - loss: 0.0008821 - PSNR: 30.590 - val_loss: 0.0011946 - val_PSNR: 30.257
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 9000/300000 - loss: 0.0008563 - PSNR: 30.717 - val_loss: 0.0012561 - val_PSNR: 29.888
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 10000/300000 - loss: 0.0008362 - PSNR: 30.814 - val_loss: 0.0011788 - val_PSNR: 30.305
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 11000/300000 - loss: 0.0008237 - PSNR: 30.882 - val_loss: 0.0011515 - val_PSNR: 30.458
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 12000/300000 - loss: 0.0008059 - PSNR: 30.978 - val_loss: 0.0013107 - val_PSNR: 29.558
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 13000/300000 - loss: 0.0007980 - PSNR: 31.017 - val_loss: 0.0012771 - val_PSNR: 29.782
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 14000/300000 - loss: 0.0007889 - PSNR: 31.072 - val_loss: 0.0011210 - val_PSNR: 30.607
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 15000/300000 - loss: 0.0007783 - PSNR: 31.127 - val_loss: 0.0011150 - val_PSNR: 30.630
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 16000/300000 - loss: 0.0007722 - PSNR: 31.163 - val_loss: 0.0011062 - val_PSNR: 30.681
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 17000/300000 - loss: 0.0007645 - PSNR: 31.203 - val_loss: 0.0011341 - val_PSNR: 30.473
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 18000/300000 - loss: 0.0007583 - PSNR: 31.238 - val_loss: 0.0011031 - val_PSNR: 30.692
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 19000/300000 - loss: 0.0007544 - PSNR: 31.261 - val_loss: 0.0011217 - val_PSNR: 30.594
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 20000/300000 - loss: 0.0007481 - PSNR: 31.301 - val_loss: 0.0011858 - val_PSNR: 30.248
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 21000/300000 - loss: 0.0007451 - PSNR: 31.315 - val_loss: 0.0010962 - val_PSNR: 30.720
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 22000/300000 - loss: 0.0007430 - PSNR: 31.330 - val_loss: 0.0010863 - val_PSNR: 30.785
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 23000/300000 - loss: 0.0007417 - PSNR: 31.340 - val_loss: 0.0010868 - val_PSNR: 30.769
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 24000/300000 - loss: 0.0007353 - PSNR: 31.378 - val_loss: 0.0011251 - val_PSNR: 30.499
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 25000/300000 - loss: 0.0007316 - PSNR: 31.398 - val_loss: 0.0010844 - val_PSNR: 30.767
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 26000/300000 - loss: 0.0007297 - PSNR: 31.407 - val_loss: 0.0010751 - val_PSNR: 30.833
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 27000/300000 - loss: 0.0007273 - PSNR: 31.420 - val_loss: 0.0010765 - val_PSNR: 30.827
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 28000/300000 - loss: 0.0007264 - PSNR: 31.431 - val_loss: 0.0010764 - val_PSNR: 30.807
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 29000/300000 - loss: 0.0007218 - PSNR: 31.453 - val_loss: 0.0010658 - val_PSNR: 30.878
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 30000/300000 - loss: 0.0007211 - PSNR: 31.462 - val_loss: 0.0010618 - val_PSNR: 30.899
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 31000/300000 - loss: 0.0007177 - PSNR: 31.477 - val_loss: 0.0010667 - val_PSNR: 30.870
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 32000/300000 - loss: 0.0007149 - PSNR: 31.498 - val_loss: 0.0010584 - val_PSNR: 30.915
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 33000/300000 - loss: 0.0007140 - PSNR: 31.500 - val_loss: 0.0010574 - val_PSNR: 30.920
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 34000/300000 - loss: 0.0007107 - PSNR: 31.521 - val_loss: 0.0010543 - val_PSNR: 30.933
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 35000/300000 - loss: 0.0007090 - PSNR: 31.530 - val_loss: 0.0010485 - val_PSNR: 30.973
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 36000/300000 - loss: 0.0007075 - PSNR: 31.539 - val_loss: 0.0010476 - val_PSNR: 30.972
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 37000/300000 - loss: 0.0007050 - PSNR: 31.557 - val_loss: 0.0010473 - val_PSNR: 30.962
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 38000/300000 - loss: 0.0007025 - PSNR: 31.574 - val_loss: 0.0010644 - val_PSNR: 30.823
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 39000/300000 - loss: 0.0007009 - PSNR: 31.581 - val_loss: 0.0010345 - val_PSNR: 31.050
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 40000/300000 - loss: 0.0006977 - PSNR: 31.601 - val_loss: 0.0010388 - val_PSNR: 31.003
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 41000/300000 - loss: 0.0006943 - PSNR: 31.622 - val_loss: 0.0010408 - val_PSNR: 30.990
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 42000/300000 - loss: 0.0006927 - PSNR: 31.633 - val_loss: 0.0010356 - val_PSNR: 31.030
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 43000/300000 - loss: 0.0006895 - PSNR: 31.655 - val_loss: 0.0010236 - val_PSNR: 31.102
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 44000/300000 - loss: 0.0006878 - PSNR: 31.667 - val_loss: 0.0010240 - val_PSNR: 31.093
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 45000/300000 - loss: 0.0006829 - PSNR: 31.694 - val_loss: 0.0010145 - val_PSNR: 31.157
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 46000/300000 - loss: 0.0006794 - PSNR: 31.717 - val_loss: 0.0010195 - val_PSNR: 31.114
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 47000/300000 - loss: 0.0006764 - PSNR: 31.736 - val_loss: 0.0010161 - val_PSNR: 31.136
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 48000/300000 - loss: 0.0006748 - PSNR: 31.749 - val_loss: 0.0010379 - val_PSNR: 31.010
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 49000/300000 - loss: 0.0006716 - PSNR: 31.766 - val_loss: 0.0010133 - val_PSNR: 31.151
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 50000/300000 - loss: 0.0006703 - PSNR: 31.775 - val_loss: 0.0010193 - val_PSNR: 31.123
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 51000/300000 - loss: 0.0006698 - PSNR: 31.781 - val_loss: 0.0010029 - val_PSNR: 31.229
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 52000/300000 - loss: 0.0006667 - PSNR: 31.801 - val_loss: 0.0010042 - val_PSNR: 31.214
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 53000/300000 - loss: 0.0006661 - PSNR: 31.808 - val_loss: 0.0010013 - val_PSNR: 31.237
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 54000/300000 - loss: 0.0006636 - PSNR: 31.822 - val_loss: 0.0010043 - val_PSNR: 31.212
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 55000/300000 - loss: 0.0006633 - PSNR: 31.827 - val_loss: 0.0010046 - val_PSNR: 31.208
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 56000/300000 - loss: 0.0006630 - PSNR: 31.827 - val_loss: 0.0009975 - val_PSNR: 31.258
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 57000/300000 - loss: 0.0006618 - PSNR: 31.835 - val_loss: 0.0009978 - val_PSNR: 31.257
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 58000/300000 - loss: 0.0006597 - PSNR: 31.849 - val_loss: 0.0010045 - val_PSNR: 31.205
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 59000/300000 - loss: 0.0006608 - PSNR: 31.839 - val_loss: 0.0010003 - val_PSNR: 31.235
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 60000/300000 - loss: 0.0006585 - PSNR: 31.853 - val_loss: 0.0009991 - val_PSNR: 31.241
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 61000/300000 - loss: 0.0006595 - PSNR: 31.845 - val_loss: 0.0009933 - val_PSNR: 31.286
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 62000/300000 - loss: 0.0006574 - PSNR: 31.863 - val_loss: 0.0009972 - val_PSNR: 31.258
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 63000/300000 - loss: 0.0006571 - PSNR: 31.864 - val_loss: 0.0009948 - val_PSNR: 31.273
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 64000/300000 - loss: 0.0006573 - PSNR: 31.864 - val_loss: 0.0010132 - val_PSNR: 31.115
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 65000/300000 - loss: 0.0006554 - PSNR: 31.870 - val_loss: 0.0010086 - val_PSNR: 31.146
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 66000/300000 - loss: 0.0006570 - PSNR: 31.866 - val_loss: 0.0009943 - val_PSNR: 31.266
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 67000/300000 - loss: 0.0006521 - PSNR: 31.900 - val_loss: 0.0009884 - val_PSNR: 31.309
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 68000/300000 - loss: 0.0006560 - PSNR: 31.876 - val_loss: 0.0009880 - val_PSNR: 31.316
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 69000/300000 - loss: 0.0006517 - PSNR: 31.902 - val_loss: 0.0009897 - val_PSNR: 31.303
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 70000/300000 - loss: 0.0006525 - PSNR: 31.892 - val_loss: 0.0009877 - val_PSNR: 31.317
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 71000/300000 - loss: 0.0006516 - PSNR: 31.901 - val_loss: 0.0009874 - val_PSNR: 31.317
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 72000/300000 - loss: 0.0006517 - PSNR: 31.899 - val_loss: 0.0009969 - val_PSNR: 31.241
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 73000/300000 - loss: 0.0006509 - PSNR: 31.905 - val_loss: 0.0009886 - val_PSNR: 31.312
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 74000/300000 - loss: 0.0006507 - PSNR: 31.905 - val_loss: 0.0009984 - val_PSNR: 31.240
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 75000/300000 - loss: 0.0006499 - PSNR: 31.910 - val_loss: 0.0010158 - val_PSNR: 31.104
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 76000/300000 - loss: 0.0006490 - PSNR: 31.918 - val_loss: 0.0009939 - val_PSNR: 31.265
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 77000/300000 - loss: 0.0006493 - PSNR: 31.918 - val_loss: 0.0009924 - val_PSNR: 31.266
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 78000/300000 - loss: 0.0006490 - PSNR: 31.919 - val_loss: 0.0009869 - val_PSNR: 31.311
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 79000/300000 - loss: 0.0006489 - PSNR: 31.920 - val_loss: 0.0009904 - val_PSNR: 31.277
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 80000/300000 - loss: 0.0006480 - PSNR: 31.924 - val_loss: 0.0009834 - val_PSNR: 31.347
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 81000/300000 - loss: 0.0006472 - PSNR: 31.928 - val_loss: 0.0009874 - val_PSNR: 31.311
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 82000/300000 - loss: 0.0006470 - PSNR: 31.935 - val_loss: 0.0009827 - val_PSNR: 31.345
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 83000/300000 - loss: 0.0006466 - PSNR: 31.937 - val_loss: 0.0009903 - val_PSNR: 31.288
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 84000/300000 - loss: 0.0006456 - PSNR: 31.939 - val_loss: 0.0009829 - val_PSNR: 31.345
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 85000/300000 - loss: 0.0006478 - PSNR: 31.925 - val_loss: 0.0009822 - val_PSNR: 31.353
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 86000/300000 - loss: 0.0006439 - PSNR: 31.953 - val_loss: 0.0009837 - val_PSNR: 31.337
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 87000/300000 - loss: 0.0006462 - PSNR: 31.935 - val_loss: 0.0009822 - val_PSNR: 31.348
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 88000/300000 - loss: 0.0006433 - PSNR: 31.959 - val_loss: 0.0009846 - val_PSNR: 31.334
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 89000/300000 - loss: 0.0006448 - PSNR: 31.945 - val_loss: 0.0009829 - val_PSNR: 31.341
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 90000/300000 - loss: 0.0006437 - PSNR: 31.951 - val_loss: 0.0009844 - val_PSNR: 31.330
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 91000/300000 - loss: 0.0006440 - PSNR: 31.952 - val_loss: 0.0010142 - val_PSNR: 31.079
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 92000/300000 - loss: 0.0006433 - PSNR: 31.956 - val_loss: 0.0010570 - val_PSNR: 30.839
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 93000/300000 - loss: 0.0006432 - PSNR: 31.957 - val_loss: 0.0009806 - val_PSNR: 31.362
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 94000/300000 - loss: 0.0006425 - PSNR: 31.960 - val_loss: 0.0009795 - val_PSNR: 31.361
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 95000/300000 - loss: 0.0006430 - PSNR: 31.959 - val_loss: 0.0009836 - val_PSNR: 31.327
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 96000/300000 - loss: 0.0006422 - PSNR: 31.963 - val_loss: 0.0009853 - val_PSNR: 31.318
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 97000/300000 - loss: 0.0006407 - PSNR: 31.974 - val_loss: 0.0009825 - val_PSNR: 31.336
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 98000/300000 - loss: 0.0006418 - PSNR: 31.967 - val_loss: 0.0009798 - val_PSNR: 31.362
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 99000/300000 - loss: 0.0006410 - PSNR: 31.969 - val_loss: 0.0009805 - val_PSNR: 31.355
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 100000/300000 - loss: 0.0006408 - PSNR: 31.976 - val_loss: 0.0009802 - val_PSNR: 31.353
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 101000/300000 - loss: 0.0006407 - PSNR: 31.975 - val_loss: 0.0009790 - val_PSNR: 31.369
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 102000/300000 - loss: 0.0006413 - PSNR: 31.970 - val_loss: 0.0009826 - val_PSNR: 31.338
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 103000/300000 - loss: 0.0006396 - PSNR: 31.980 - val_loss: 0.0009833 - val_PSNR: 31.337
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 104000/300000 - loss: 0.0006400 - PSNR: 31.976 - val_loss: 0.0009775 - val_PSNR: 31.376
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 105000/300000 - loss: 0.0006390 - PSNR: 31.984 - val_loss: 0.0009898 - val_PSNR: 31.291
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 106000/300000 - loss: 0.0006396 - PSNR: 31.981 - val_loss: 0.0009756 - val_PSNR: 31.393
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 107000/300000 - loss: 0.0006409 - PSNR: 31.973 - val_loss: 0.0009808 - val_PSNR: 31.351
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 108000/300000 - loss: 0.0006370 - PSNR: 31.998 - val_loss: 0.0009906 - val_PSNR: 31.273
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 109000/300000 - loss: 0.0006390 - PSNR: 31.986 - val_loss: 0.0009783 - val_PSNR: 31.367
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 110000/300000 - loss: 0.0006383 - PSNR: 31.991 - val_loss: 0.0009782 - val_PSNR: 31.369
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 111000/300000 - loss: 0.0006382 - PSNR: 31.990 - val_loss: 0.0009820 - val_PSNR: 31.350
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 112000/300000 - loss: 0.0006382 - PSNR: 31.988 - val_loss: 0.0009809 - val_PSNR: 31.349
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 113000/300000 - loss: 0.0006379 - PSNR: 31.995 - val_loss: 0.0009756 - val_PSNR: 31.390
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 114000/300000 - loss: 0.0006373 - PSNR: 31.999 - val_loss: 0.0009773 - val_PSNR: 31.373
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 115000/300000 - loss: 0.0006380 - PSNR: 31.996 - val_loss: 0.0009740 - val_PSNR: 31.405
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 116000/300000 - loss: 0.0006372 - PSNR: 31.998 - val_loss: 0.0009775 - val_PSNR: 31.368
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 117000/300000 - loss: 0.0006369 - PSNR: 31.999 - val_loss: 0.0009740 - val_PSNR: 31.391
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 118000/300000 - loss: 0.0006358 - PSNR: 32.008 - val_loss: 0.0009728 - val_PSNR: 31.405
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 119000/300000 - loss: 0.0006357 - PSNR: 32.006 - val_loss: 0.0009787 - val_PSNR: 31.356
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 120000/300000 - loss: 0.0006352 - PSNR: 32.013 - val_loss: 0.0009779 - val_PSNR: 31.355
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 121000/300000 - loss: 0.0006357 - PSNR: 32.008 - val_loss: 0.0009727 - val_PSNR: 31.397
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 122000/300000 - loss: 0.0006345 - PSNR: 32.017 - val_loss: 0.0009719 - val_PSNR: 31.410
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 123000/300000 - loss: 0.0006348 - PSNR: 32.015 - val_loss: 0.0009739 - val_PSNR: 31.393
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 124000/300000 - loss: 0.0006349 - PSNR: 32.015 - val_loss: 0.0009715 - val_PSNR: 31.406
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 125000/300000 - loss: 0.0006345 - PSNR: 32.016 - val_loss: 0.0009745 - val_PSNR: 31.390
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 126000/300000 - loss: 0.0006336 - PSNR: 32.024 - val_loss: 0.0009714 - val_PSNR: 31.409
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 127000/300000 - loss: 0.0006346 - PSNR: 32.014 - val_loss: 0.0009802 - val_PSNR: 31.323
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 128000/300000 - loss: 0.0006338 - PSNR: 32.020 - val_loss: 0.0009702 - val_PSNR: 31.420
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 129000/300000 - loss: 0.0006334 - PSNR: 32.022 - val_loss: 0.0009732 - val_PSNR: 31.394
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 130000/300000 - loss: 0.0006330 - PSNR: 32.025 - val_loss: 0.0009709 - val_PSNR: 31.407
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 131000/300000 - loss: 0.0006334 - PSNR: 32.022 - val_loss: 0.0009819 - val_PSNR: 31.316
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 132000/300000 - loss: 0.0006329 - PSNR: 32.029 - val_loss: 0.0009702 - val_PSNR: 31.417
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 133000/300000 - loss: 0.0006332 - PSNR: 32.026 - val_loss: 0.0009757 - val_PSNR: 31.384
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 134000/300000 - loss: 0.0006323 - PSNR: 32.035 - val_loss: 0.0009678 - val_PSNR: 31.435
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 135000/300000 - loss: 0.0006327 - PSNR: 32.027 - val_loss: 0.0009717 - val_PSNR: 31.397
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 136000/300000 - loss: 0.0006324 - PSNR: 32.030 - val_loss: 0.0009672 - val_PSNR: 31.431
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 137000/300000 - loss: 0.0006324 - PSNR: 32.029 - val_loss: 0.0009709 - val_PSNR: 31.408
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 138000/300000 - loss: 0.0006323 - PSNR: 32.033 - val_loss: 0.0009712 - val_PSNR: 31.406
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 139000/300000 - loss: 0.0006319 - PSNR: 32.035 - val_loss: 0.0009692 - val_PSNR: 31.422
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 140000/300000 - loss: 0.0006315 - PSNR: 32.035 - val_loss: 0.0009678 - val_PSNR: 31.433
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 141000/300000 - loss: 0.0006316 - PSNR: 32.038 - val_loss: 0.0009703 - val_PSNR: 31.405
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 142000/300000 - loss: 0.0006319 - PSNR: 32.032 - val_loss: 0.0009678 - val_PSNR: 31.435
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 143000/300000 - loss: 0.0006307 - PSNR: 32.044 - val_loss: 0.0009721 - val_PSNR: 31.391
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 144000/300000 - loss: 0.0006312 - PSNR: 32.039 - val_loss: 0.0009688 - val_PSNR: 31.424
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 145000/300000 - loss: 0.0006304 - PSNR: 32.045 - val_loss: 0.0009688 - val_PSNR: 31.421
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 146000/300000 - loss: 0.0006313 - PSNR: 32.036 - val_loss: 0.0009685 - val_PSNR: 31.419
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 147000/300000 - loss: 0.0006300 - PSNR: 32.047 - val_loss: 0.0009680 - val_PSNR: 31.421
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 148000/300000 - loss: 0.0006309 - PSNR: 32.040 - val_loss: 0.0009684 - val_PSNR: 31.422
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 149000/300000 - loss: 0.0006303 - PSNR: 32.046 - val_loss: 0.0009689 - val_PSNR: 31.422
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 150000/300000 - loss: 0.0006297 - PSNR: 32.049 - val_loss: 0.0009672 - val_PSNR: 31.434
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 151000/300000 - loss: 0.0006295 - PSNR: 32.050 - val_loss: 0.0009681 - val_PSNR: 31.423
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 152000/300000 - loss: 0.0006303 - PSNR: 32.043 - val_loss: 0.0009802 - val_PSNR: 31.321
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 153000/300000 - loss: 0.0006295 - PSNR: 32.051 - val_loss: 0.0009654 - val_PSNR: 31.445
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 154000/300000 - loss: 0.0006297 - PSNR: 32.051 - val_loss: 0.0009659 - val_PSNR: 31.440
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 155000/300000 - loss: 0.0006288 - PSNR: 32.051 - val_loss: 0.0009678 - val_PSNR: 31.419
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 156000/300000 - loss: 0.0006296 - PSNR: 32.050 - val_loss: 0.0009716 - val_PSNR: 31.401
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 157000/300000 - loss: 0.0006284 - PSNR: 32.059 - val_loss: 0.0009657 - val_PSNR: 31.435
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 158000/300000 - loss: 0.0006288 - PSNR: 32.055 - val_loss: 0.0009712 - val_PSNR: 31.388
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 159000/300000 - loss: 0.0006286 - PSNR: 32.056 - val_loss: 0.0009679 - val_PSNR: 31.428
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 160000/300000 - loss: 0.0006283 - PSNR: 32.061 - val_loss: 0.0009687 - val_PSNR: 31.413
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 161000/300000 - loss: 0.0006278 - PSNR: 32.063 - val_loss: 0.0009641 - val_PSNR: 31.446
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 162000/300000 - loss: 0.0006279 - PSNR: 32.060 - val_loss: 0.0009702 - val_PSNR: 31.400
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 163000/300000 - loss: 0.0006278 - PSNR: 32.066 - val_loss: 0.0009676 - val_PSNR: 31.417
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 164000/300000 - loss: 0.0006276 - PSNR: 32.065 - val_loss: 0.0009634 - val_PSNR: 31.450
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 165000/300000 - loss: 0.0006281 - PSNR: 32.059 - val_loss: 0.0009657 - val_PSNR: 31.435
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 166000/300000 - loss: 0.0006265 - PSNR: 32.075 - val_loss: 0.0009654 - val_PSNR: 31.437
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 167000/300000 - loss: 0.0006272 - PSNR: 32.066 - val_loss: 0.0009675 - val_PSNR: 31.417
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 168000/300000 - loss: 0.0006274 - PSNR: 32.066 - val_loss: 0.0009655 - val_PSNR: 31.430
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 169000/300000 - loss: 0.0006268 - PSNR: 32.068 - val_loss: 0.0009699 - val_PSNR: 31.398
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 170000/300000 - loss: 0.0006266 - PSNR: 32.068 - val_loss: 0.0009635 - val_PSNR: 31.445
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 171000/300000 - loss: 0.0006265 - PSNR: 32.072 - val_loss: 0.0009770 - val_PSNR: 31.338
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 172000/300000 - loss: 0.0006263 - PSNR: 32.074 - val_loss: 0.0009646 - val_PSNR: 31.443
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 173000/300000 - loss: 0.0006265 - PSNR: 32.072 - val_loss: 0.0009653 - val_PSNR: 31.428
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 174000/300000 - loss: 0.0006268 - PSNR: 32.068 - val_loss: 0.0009653 - val_PSNR: 31.439
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 175000/300000 - loss: 0.0006251 - PSNR: 32.078 - val_loss: 0.0009632 - val_PSNR: 31.448
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 176000/300000 - loss: 0.0006262 - PSNR: 32.074 - val_loss: 0.0009645 - val_PSNR: 31.440
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 177000/300000 - loss: 0.0006257 - PSNR: 32.077 - val_loss: 0.0009635 - val_PSNR: 31.449
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 178000/300000 - loss: 0.0006256 - PSNR: 32.078 - val_loss: 0.0009652 - val_PSNR: 31.432
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 179000/300000 - loss: 0.0006252 - PSNR: 32.078 - val_loss: 0.0009650 - val_PSNR: 31.439
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 180000/300000 - loss: 0.0006252 - PSNR: 32.084 - val_loss: 0.0009629 - val_PSNR: 31.452
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 181000/300000 - loss: 0.0006251 - PSNR: 32.081 - val_loss: 0.0009652 - val_PSNR: 31.435
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 182000/300000 - loss: 0.0006255 - PSNR: 32.077 - val_loss: 0.0009629 - val_PSNR: 31.449
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 183000/300000 - loss: 0.0006245 - PSNR: 32.082 - val_loss: 0.0009620 - val_PSNR: 31.454
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 184000/300000 - loss: 0.0006251 - PSNR: 32.079 - val_loss: 0.0009636 - val_PSNR: 31.445
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 185000/300000 - loss: 0.0006241 - PSNR: 32.090 - val_loss: 0.0009639 - val_PSNR: 31.440
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 186000/300000 - loss: 0.0006245 - PSNR: 32.081 - val_loss: 0.0009663 - val_PSNR: 31.426
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 187000/300000 - loss: 0.0006240 - PSNR: 32.087 - val_loss: 0.0009658 - val_PSNR: 31.423
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 188000/300000 - loss: 0.0006246 - PSNR: 32.083 - val_loss: 0.0009610 - val_PSNR: 31.468
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 189000/300000 - loss: 0.0006240 - PSNR: 32.091 - val_loss: 0.0009620 - val_PSNR: 31.456
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 190000/300000 - loss: 0.0006237 - PSNR: 32.091 - val_loss: 0.0009803 - val_PSNR: 31.289
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 191000/300000 - loss: 0.0006238 - PSNR: 32.091 - val_loss: 0.0009626 - val_PSNR: 31.454
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 192000/300000 - loss: 0.0006236 - PSNR: 32.092 - val_loss: 0.0009625 - val_PSNR: 31.455
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 193000/300000 - loss: 0.0006237 - PSNR: 32.092 - val_loss: 0.0009641 - val_PSNR: 31.446
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 194000/300000 - loss: 0.0006234 - PSNR: 32.093 - val_loss: 0.0009624 - val_PSNR: 31.452
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 195000/300000 - loss: 0.0006239 - PSNR: 32.092 - val_loss: 0.0009604 - val_PSNR: 31.465
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 196000/300000 - loss: 0.0006229 - PSNR: 32.098 - val_loss: 0.0009605 - val_PSNR: 31.467
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 197000/300000 - loss: 0.0006230 - PSNR: 32.096 - val_loss: 0.0009597 - val_PSNR: 31.474
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 198000/300000 - loss: 0.0006227 - PSNR: 32.099 - val_loss: 0.0009611 - val_PSNR: 31.457
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 199000/300000 - loss: 0.0006228 - PSNR: 32.099 - val_loss: 0.0009642 - val_PSNR: 31.442
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 200000/300000 - loss: 0.0006227 - PSNR: 32.097 - val_loss: 0.0009601 - val_PSNR: 31.472
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 201000/300000 - loss: 0.0006224 - PSNR: 32.098 - val_loss: 0.0009649 - val_PSNR: 31.434
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 202000/300000 - loss: 0.0006225 - PSNR: 32.099 - val_loss: 0.0009621 - val_PSNR: 31.450
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 203000/300000 - loss: 0.0006224 - PSNR: 32.099 - val_loss: 0.0009620 - val_PSNR: 31.451
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 204000/300000 - loss: 0.0006224 - PSNR: 32.100 - val_loss: 0.0009616 - val_PSNR: 31.455
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 205000/300000 - loss: 0.0006220 - PSNR: 32.104 - val_loss: 0.0009599 - val_PSNR: 31.466
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 206000/300000 - loss: 0.0006220 - PSNR: 32.103 - val_loss: 0.0009607 - val_PSNR: 31.463
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 207000/300000 - loss: 0.0006215 - PSNR: 32.106 - val_loss: 0.0009579 - val_PSNR: 31.478
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 208000/300000 - loss: 0.0006214 - PSNR: 32.108 - val_loss: 0.0009589 - val_PSNR: 31.477
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 209000/300000 - loss: 0.0006214 - PSNR: 32.107 - val_loss: 0.0009642 - val_PSNR: 31.440
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 210000/300000 - loss: 0.0006212 - PSNR: 32.109 - val_loss: 0.0009608 - val_PSNR: 31.462
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 211000/300000 - loss: 0.0006214 - PSNR: 32.105 - val_loss: 0.0009593 - val_PSNR: 31.477
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 212000/300000 - loss: 0.0006208 - PSNR: 32.114 - val_loss: 0.0009612 - val_PSNR: 31.458
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 213000/300000 - loss: 0.0006207 - PSNR: 32.111 - val_loss: 0.0009594 - val_PSNR: 31.467
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 214000/300000 - loss: 0.0006209 - PSNR: 32.111 - val_loss: 0.0009599 - val_PSNR: 31.471
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 215000/300000 - loss: 0.0006210 - PSNR: 32.107 - val_loss: 0.0009591 - val_PSNR: 31.480
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 216000/300000 - loss: 0.0006197 - PSNR: 32.117 - val_loss: 0.0009619 - val_PSNR: 31.443
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 217000/300000 - loss: 0.0006201 - PSNR: 32.113 - val_loss: 0.0009588 - val_PSNR: 31.474
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 218000/300000 - loss: 0.0006205 - PSNR: 32.114 - val_loss: 0.0009603 - val_PSNR: 31.458
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 219000/300000 - loss: 0.0006195 - PSNR: 32.119 - val_loss: 0.0009633 - val_PSNR: 31.435
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 220000/300000 - loss: 0.0006199 - PSNR: 32.116 - val_loss: 0.0009585 - val_PSNR: 31.478
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 221000/300000 - loss: 0.0006198 - PSNR: 32.116 - val_loss: 0.0009598 - val_PSNR: 31.466
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 222000/300000 - loss: 0.0006195 - PSNR: 32.120 - val_loss: 0.0009588 - val_PSNR: 31.475
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 223000/300000 - loss: 0.0006195 - PSNR: 32.124 - val_loss: 0.0009641 - val_PSNR: 31.443
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 224000/300000 - loss: 0.0006193 - PSNR: 32.119 - val_loss: 0.0009560 - val_PSNR: 31.493
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 225000/300000 - loss: 0.0006191 - PSNR: 32.125 - val_loss: 0.0009565 - val_PSNR: 31.485
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 226000/300000 - loss: 0.0006187 - PSNR: 32.126 - val_loss: 0.0009564 - val_PSNR: 31.488
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 227000/300000 - loss: 0.0006190 - PSNR: 32.123 - val_loss: 0.0009570 - val_PSNR: 31.485
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 228000/300000 - loss: 0.0006188 - PSNR: 32.126 - val_loss: 0.0009639 - val_PSNR: 31.425
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 229000/300000 - loss: 0.0006179 - PSNR: 32.132 - val_loss: 0.0009580 - val_PSNR: 31.483
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 230000/300000 - loss: 0.0006186 - PSNR: 32.125 - val_loss: 0.0009584 - val_PSNR: 31.468
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 231000/300000 - loss: 0.0006183 - PSNR: 32.134 - val_loss: 0.0009586 - val_PSNR: 31.478
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 232000/300000 - loss: 0.0006177 - PSNR: 32.131 - val_loss: 0.0009702 - val_PSNR: 31.360
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 233000/300000 - loss: 0.0006179 - PSNR: 32.132 - val_loss: 0.0009584 - val_PSNR: 31.467
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 234000/300000 - loss: 0.0006179 - PSNR: 32.134 - val_loss: 0.0009608 - val_PSNR: 31.459
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 235000/300000 - loss: 0.0006175 - PSNR: 32.135 - val_loss: 0.0009541 - val_PSNR: 31.503
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 236000/300000 - loss: 0.0006172 - PSNR: 32.135 - val_loss: 0.0009572 - val_PSNR: 31.486
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 237000/300000 - loss: 0.0006169 - PSNR: 32.137 - val_loss: 0.0009558 - val_PSNR: 31.491
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 238000/300000 - loss: 0.0006173 - PSNR: 32.136 - val_loss: 0.0009580 - val_PSNR: 31.469
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 239000/300000 - loss: 0.0006169 - PSNR: 32.140 - val_loss: 0.0009555 - val_PSNR: 31.490
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 240000/300000 - loss: 0.0006169 - PSNR: 32.140 - val_loss: 0.0009582 - val_PSNR: 31.469
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 241000/300000 - loss: 0.0006169 - PSNR: 32.138 - val_loss: 0.0009586 - val_PSNR: 31.463
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 242000/300000 - loss: 0.0006166 - PSNR: 32.139 - val_loss: 0.0009608 - val_PSNR: 31.441
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 243000/300000 - loss: 0.0006164 - PSNR: 32.140 - val_loss: 0.0009604 - val_PSNR: 31.444
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 244000/300000 - loss: 0.0006162 - PSNR: 32.142 - val_loss: 0.0009548 - val_PSNR: 31.501
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 245000/300000 - loss: 0.0006163 - PSNR: 32.141 - val_loss: 0.0009617 - val_PSNR: 31.447
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 246000/300000 - loss: 0.0006154 - PSNR: 32.150 - val_loss: 0.0009575 - val_PSNR: 31.463
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 247000/300000 - loss: 0.0006158 - PSNR: 32.143 - val_loss: 0.0009541 - val_PSNR: 31.504
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 248000/300000 - loss: 0.0006159 - PSNR: 32.148 - val_loss: 0.0009674 - val_PSNR: 31.393
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 249000/300000 - loss: 0.0006151 - PSNR: 32.149 - val_loss: 0.0009577 - val_PSNR: 31.472
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 250000/300000 - loss: 0.0006156 - PSNR: 32.150 - val_loss: 0.0009527 - val_PSNR: 31.515
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 251000/300000 - loss: 0.0006152 - PSNR: 32.150 - val_loss: 0.0009537 - val_PSNR: 31.502
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 252000/300000 - loss: 0.0006155 - PSNR: 32.145 - val_loss: 0.0009559 - val_PSNR: 31.490
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 253000/300000 - loss: 0.0006144 - PSNR: 32.157 - val_loss: 0.0009538 - val_PSNR: 31.509
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 254000/300000 - loss: 0.0006150 - PSNR: 32.153 - val_loss: 0.0009519 - val_PSNR: 31.517
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 255000/300000 - loss: 0.0006145 - PSNR: 32.155 - val_loss: 0.0009523 - val_PSNR: 31.514
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 256000/300000 - loss: 0.0006143 - PSNR: 32.156 - val_loss: 0.0009531 - val_PSNR: 31.508
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 257000/300000 - loss: 0.0006142 - PSNR: 32.165 - val_loss: 0.0009562 - val_PSNR: 31.484
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 258000/300000 - loss: 0.0006140 - PSNR: 32.160 - val_loss: 0.0009520 - val_PSNR: 31.522
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 259000/300000 - loss: 0.0006142 - PSNR: 32.158 - val_loss: 0.0009521 - val_PSNR: 31.515
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 260000/300000 - loss: 0.0006137 - PSNR: 32.163 - val_loss: 0.0009521 - val_PSNR: 31.513
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 261000/300000 - loss: 0.0006136 - PSNR: 32.162 - val_loss: 0.0009513 - val_PSNR: 31.525
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 262000/300000 - loss: 0.0006132 - PSNR: 32.163 - val_loss: 0.0009604 - val_PSNR: 31.442
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 263000/300000 - loss: 0.0006141 - PSNR: 32.159 - val_loss: 0.0009546 - val_PSNR: 31.501
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 264000/300000 - loss: 0.0006131 - PSNR: 32.167 - val_loss: 0.0009503 - val_PSNR: 31.524
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 265000/300000 - loss: 0.0006131 - PSNR: 32.164 - val_loss: 0.0009520 - val_PSNR: 31.508
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 266000/300000 - loss: 0.0006131 - PSNR: 32.164 - val_loss: 0.0009515 - val_PSNR: 31.518
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 267000/300000 - loss: 0.0006130 - PSNR: 32.165 - val_loss: 0.0009517 - val_PSNR: 31.517
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 268000/300000 - loss: 0.0006127 - PSNR: 32.167 - val_loss: 0.0009513 - val_PSNR: 31.520
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 269000/300000 - loss: 0.0006127 - PSNR: 32.168 - val_loss: 0.0009530 - val_PSNR: 31.514
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 270000/300000 - loss: 0.0006124 - PSNR: 32.168 - val_loss: 0.0009529 - val_PSNR: 31.506
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 271000/300000 - loss: 0.0006126 - PSNR: 32.173 - val_loss: 0.0009507 - val_PSNR: 31.523
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 272000/300000 - loss: 0.0006123 - PSNR: 32.172 - val_loss: 0.0009510 - val_PSNR: 31.523
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 273000/300000 - loss: 0.0006119 - PSNR: 32.175 - val_loss: 0.0009506 - val_PSNR: 31.517
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 274000/300000 - loss: 0.0006122 - PSNR: 32.169 - val_loss: 0.0009508 - val_PSNR: 31.520
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 275000/300000 - loss: 0.0006119 - PSNR: 32.173 - val_loss: 0.0009505 - val_PSNR: 31.527
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 276000/300000 - loss: 0.0006116 - PSNR: 32.177 - val_loss: 0.0009553 - val_PSNR: 31.496
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 277000/300000 - loss: 0.0006117 - PSNR: 32.179 - val_loss: 0.0009501 - val_PSNR: 31.531
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 278000/300000 - loss: 0.0006115 - PSNR: 32.177 - val_loss: 0.0009524 - val_PSNR: 31.514
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 279000/300000 - loss: 0.0006116 - PSNR: 32.176 - val_loss: 0.0009512 - val_PSNR: 31.526
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 280000/300000 - loss: 0.0006108 - PSNR: 32.183 - val_loss: 0.0009490 - val_PSNR: 31.541
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 281000/300000 - loss: 0.0006110 - PSNR: 32.182 - val_loss: 0.0009486 - val_PSNR: 31.540
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 282000/300000 - loss: 0.0006111 - PSNR: 32.182 - val_loss: 0.0009494 - val_PSNR: 31.526
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 283000/300000 - loss: 0.0006106 - PSNR: 32.183 - val_loss: 0.0009493 - val_PSNR: 31.537
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 284000/300000 - loss: 0.0006107 - PSNR: 32.183 - val_loss: 0.0009484 - val_PSNR: 31.539
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 285000/300000 - loss: 0.0006107 - PSNR: 32.183 - val_loss: 0.0009491 - val_PSNR: 31.531
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 286000/300000 - loss: 0.0006100 - PSNR: 32.186 - val_loss: 0.0009503 - val_PSNR: 31.527
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 287000/300000 - loss: 0.0006106 - PSNR: 32.184 - val_loss: 0.0009532 - val_PSNR: 31.495
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 288000/300000 - loss: 0.0006102 - PSNR: 32.186 - val_loss: 0.0009513 - val_PSNR: 31.522
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 289000/300000 - loss: 0.0006102 - PSNR: 32.185 - val_loss: 0.0009472 - val_PSNR: 31.548
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 290000/300000 - loss: 0.0006102 - PSNR: 32.185 - val_loss: 0.0009515 - val_PSNR: 31.524
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 291000/300000 - loss: 0.0006100 - PSNR: 32.187 - val_loss: 0.0009499 - val_PSNR: 31.528
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 292000/300000 - loss: 0.0006098 - PSNR: 32.187 - val_loss: 0.0009590 - val_PSNR: 31.449
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 293000/300000 - loss: 0.0006098 - PSNR: 32.192 - val_loss: 0.0009517 - val_PSNR: 31.518
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 294000/300000 - loss: 0.0006096 - PSNR: 32.189 - val_loss: 0.0009502 - val_PSNR: 31.524
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 295000/300000 - loss: 0.0006095 - PSNR: 32.190 - val_loss: 0.0009486 - val_PSNR: 31.527
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 296000/300000 - loss: 0.0006093 - PSNR: 32.193 - val_loss: 0.0009505 - val_PSNR: 31.512
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 297000/300000 - loss: 0.0006093 - PSNR: 32.192 - val_loss: 0.0009491 - val_PSNR: 31.531
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 298000/300000 - loss: 0.0006090 - PSNR: 32.199 - val_loss: 0.0009470 - val_PSNR: 31.549
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 299000/300000 - loss: 0.0006091 - PSNR: 32.196 - val_loss: 0.0009469 - val_PSNR: 31.548
+Save model to checkpoint/x3/FSRCNN-x3.pt
+
+Step 300000/300000 - loss: 0.0006085 - PSNR: 32.201 - val_loss: 0.0009475 - val_PSNR: 31.534
+Save model to checkpoint/x3/FSRCNN-x3.pt

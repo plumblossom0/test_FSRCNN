@@ -6,8 +6,8 @@ from utils.common import read_image, write_image, gaussian_blur, resize_bicubic,
 # ---------------------------
 scale = 3
 sigma = 0.7  # FSRCNN 논문 방식
-input_dir = "C:/codelib/git/test_FSRCNN/LR_HR_maker_input"
-output_dir = "C:/codelib/git/test_FSRCNN/LR_HR_maker_output_png"
+input_dir = "C:/codelib/git/test_FSRCNN/LR_HR_maker_input(HR)"
+output_dir = "C:/codelib/git/test_FSRCNN/LR_HR_maker_output_png(LR)"
 os.makedirs(output_dir, exist_ok=True)
 
 # ---------------------------
